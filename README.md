@@ -1,45 +1,30 @@
-
 # Hi there 👋 I'm Rahul Dev
 
-I'm a full‑stack developer who enjoys building useful, scalable, and clean software.  
-I currently work as a Senior Associate at EY, where I build web apps, cloud‑based services, and AI‑powered solutions.
-
-I love working across the stack — from designing APIs and optimizing backend systems to creating smooth, responsive UIs. I’m also very curious about Generative AI and how it can improve developer workflows and business processes.
-
----
-
-## 🛠️ What I Work With
-
-**Languages:** JavaScript, TypeScript, Python, SQL, Java, C/C++  
-**Frontend:** React.js, Redux, Tailwind, SCSS  
-**Backend:** Node.js (Express), FastAPI, REST, GraphQL  
-**Databases:** PostgreSQL, MS SQL Server, MongoDB, Redis  
-**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD (Azure DevOps)  
-**AI/ML:** LangChain, OpenAI APIs, pgvector, RAG systems  
+I'm a full‑stack developer who enjoys building scalable systems, clean APIs, and intuitive user interfaces.  
+I work mostly with JavaScript/TypeScript, React, Node.js, and cloud-native tooling.  
+I'm also deeply interested in Generative AI and how modern LLMs can improve developer productivity and real-world business workflows.
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### **Senior Associate @ Ernst & Young (2020 — Present)**
+### **Languages**
+JavaScript, TypeScript, Python, SQL, Java, C/C++
 
-- Built tools that automated Excel‑based data workflows, reducing manual effort by **80%**.  
-- Migrated a monolithic system to microservices, improving deployment and scaling by **50%**.  
-- Integrated Azure Blob Storage and embedded Power BI dashboards with secure AD authentication.  
-- Improved CI/CD pipelines, cutting build times in half and making deployments more reliable.  
-- Designed and built AI‑powered features using OpenAI, LangChain, and vector search.  
-- Worked closely with a team of developers, guiding feature development and participating in design decisions.
+### **Frontend**
+React.js, Redux, Tailwind, SCSS, SPA Architecture
 
----
+### **Backend**
+Node.js (Express), FastAPI, REST APIs, GraphQL, Microservices, OAuth/JWT Auth
 
-## 🔍 Projects I’m Proud Of
+### **Databases**
+PostgreSQL, MongoDB, MS SQL Server, Redis
 
-### 🩺 **Breast Cancer Detection (Deep Learning)**
-A multi-view CNN system trained on mammogram scans (CBIS‑DDSM dataset).  
-Achieved **95.7% accuracy** and significantly improved recall and precision.
+### **Cloud & DevOps**
+Azure, AWS, GCP, Docker, Kubernetes, CI/CD (Azure DevOps), Prometheus, Grafana
 
-### 📊 **Blood Bank Data Visualization**
-An interactive Tableau dashboard that helps visualize blood bank inventory with geographical insights.
+### **AI / GenAI**
+OpenAI APIs, LangChain, Hugging Face, RAG, pgvector, QLoRA, AI Agents
 
 ---
 
@@ -53,17 +38,17 @@ An interactive Tableau dashboard that helps visualize blood bank inventory with 
 ## 🏅 Certifications
 
 - Certified Kubernetes Administrator (CKA)  
-- Software Architecture for Large-Scale Systems  
-- AI Engineer Core Track (LLMs, RAG, QLoRA)  
+- Software Architecture for Large‑Scale Systems  
+- AI Engineer Core Track (LLMs, RAG, QLoRA)
 
 ---
 
-## 🌱 A bit more about me
+## 🌱 A Bit About Me
 
-I enjoy solving problems, learning new technologies, and building things that make people’s work easier.  
-Outside coding, I like exploring AI, reading about system design, and occasionally tinkering with side projects.
+I enjoy solving complex problems, learning new technologies, and building things that have real impact.  
+When I'm not coding, you’ll find me exploring AI research, reading about system design, or experimenting with new frameworks and tools.
 
-If you'd like to connect or collaborate, feel free to reach out 😊
+Feel free to reach out — always happy to connect or collaborate!
 
 📧 **Email:** dev.rahul1209@gmail.com  
 🔗 **LinkedIn:** linkedin.com/in/devrahul1209  
