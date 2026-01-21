@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rahul Dev
+# Hi there 👋 I'm Rahul
 
 I'm a full‑stack developer who loves building scalable systems, clean APIs, and intuitive user interfaces.  
 I work mostly with JavaScript/TypeScript, React, Node.js, and cloud-native tooling.
